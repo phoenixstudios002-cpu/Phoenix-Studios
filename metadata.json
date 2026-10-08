@@ -1,0 +1,6 @@
+{
+  "name": "EUN Health and Wellness Center",
+  "description": "Luxury wellness, spa and beauty center in Port Harcourt, Nigeria offering massage therapy, facial skincare, body treatments, and personalized self-care.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
